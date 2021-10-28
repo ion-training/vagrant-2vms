@@ -37,6 +37,27 @@ SSH into the client vm
 vagrant ssh client
 ```
 
+# Destroy
+Check location of the vagrant vms running
+```
+vagrant global-status
+```
+
+Drive into thhat directory
+```
+cd <DIR-VAGRANT-PROJ>
+```
+
+Stop the vms
+```
+vagrant halt
+```
+
+Destroy the VMs
+```
+vagrant destroy
+```
+
 # Sample output
 
 ```
