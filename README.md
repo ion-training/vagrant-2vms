@@ -164,11 +164,7 @@ $
 ```
 $ vagrant global-status
 id       name             provider   state    directory                                                     
-------------------------------------------------------------------------------------------------------------
-ece546c  default          virtualbox poweroff /Users/ion/Documents/dev/vagrant-proj/kitchen-terraform       
-983b095  containerd-linux virtualbox poweroff /Users/ion/Documents/dev/vagrant-proj/nomad-driver-containerd 
-aa96305  default          virtualbox poweroff /Users/ion/Documents/dev/vagrant-proj/test1                   
-9d624bf  default          virtualbox running  /Users/ion/Documents/dev/go-proj/go-ubuntu                    
+------------------------------------------------------------------------------------------------------------               
 54db3d9  server           virtualbox running  /Users/ion/Documents/dev/vagrant-proj/vagrant-2vms            
 fec8857  client           virtualbox running  /Users/ion/Documents/dev/vagrant-proj/vagrant-2vms            
  
