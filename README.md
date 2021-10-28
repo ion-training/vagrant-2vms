@@ -1,6 +1,7 @@
 # Create 2 ubuntu machines with vagrant
 
-# How to use
+
+## Create vms
 
 Download the repository
 ```
@@ -37,7 +38,8 @@ SSH into the client vm
 vagrant ssh client
 ```
 
-# Destroy
+## Destroy the vms
+
 Check location of the vagrant vms running
 ```
 vagrant global-status
